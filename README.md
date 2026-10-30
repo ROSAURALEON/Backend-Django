@@ -3,7 +3,7 @@
 ## UNIVERSIDAD AMERICANA
 
 **Asignatura:** Desarrollo de Aplicaciones Web I  
-**Tema:** Creación de endpoints en Django nativo mediante vistas basadas en clases (CBV)  
+**Tema:** Creación de endpoints en Django nativo.
 **Estudiante:** Rosaura León  
 **Docente:** José Torres  
 **Grupo:** 4E  
